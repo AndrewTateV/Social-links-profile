@@ -27,3 +27,12 @@ font-size: 1.2em;
 
 
 } */
+
+@media (max-width: 26em) {
+  .header-infor {
+    font-size: 1.4em;
+  }
+  .container {
+    min-width: 30em;
+  }
+}
