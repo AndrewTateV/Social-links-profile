@@ -1,0 +1,29 @@
+@media ( max-width:27em){
+
+.container{
+min-width: 30em;
+
+}
+h1{
+font-size: 3em;
+
+}
+.header-address{
+font-size: 1.5em;
+margin-bottom: 2rem;
+}
+.header-infor{
+font-size: 1.4em;
+
+
+}
+
+li {
+width: 20em;
+}
+.anchor a{
+font-size: 1.2em;
+}
+
+
+}
